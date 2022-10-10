@@ -422,4 +422,12 @@ New source code files should include the following header block:
 */
 ```
 
+
+
+#### Name: [Ankit Kumar](https://github.com/Prankit1)
+
+- Place: Haldia, Bihar, India
+- Bio: I am an engineering graduate.
+- GitHub: [Prankit1](https://github.com/Prankit1)
+
 Thank you for contributing to PHP!
